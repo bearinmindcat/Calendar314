@@ -1,0 +1,2 @@
+- Removed unnecessary INTERNET permission - app works fully offline
+- No functional changes

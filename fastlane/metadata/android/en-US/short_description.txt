@@ -1,0 +1,1 @@
+Open source calendar with color-coded dates, journal entries & local storage.

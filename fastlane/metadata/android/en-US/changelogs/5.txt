@@ -1,0 +1,8 @@
+Initial F-Droid release
+
+• Color-coded calendar for tracking events and goals
+• Journal entries with voice recording support
+• Adjustable color intensity
+• Data export/import functionality
+• Dark mode support
+• Privacy-focused: all data stored locally

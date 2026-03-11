@@ -1,0 +1,33 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/deviceManager.xml
+/.idea/highlightedFiles.xml
+/.idea/misc.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Release builds - don't commit binaries
+*.apk
+*.aab
+app/release/
+
+# Allow APKs in releases folder
+!releases/*.apk
+
+
+# Signing keys
+*.jks
+*.keystore
+keystore.properties
