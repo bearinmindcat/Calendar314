@@ -7,17 +7,11 @@
 
 ## About
 
-Calendar314 is an open source calendar app for tracking events with color-coded dates & journal entries. All data is saved locally and can be exported/imported with a JSON file.
+Calendar314 is an open source calendar app that can be used to track fitness goals, period cycles, dreams, etc.
 
-All your data is stored locally on your device and can be transferred to subsequent devices with everything being tied to you. We do not collect, share, or sell any personal data or information. No internet permission is required for anything involving this app.
+Dates can be color coded to indicate different situations and you also have the option to add notes & journal entries to any available dates on the calendar as well. These journal entries can also be seen and read from another screen within the app in a space more centralized for journaling.
 
-Notable features:
-
-- Color-coded calendar dates for tracking events or goals
-- Adjustable color intensity for personalization
-- Journal entries with optional voice recording for notes
-- Data backup via JSON export/import functionality
-- Minimal interface design prioritizing ease of use
+All your data is stored locally on your device and can be transferred to subsequent devices with json files. There's an endemic of apps like these being used for data collection and tracking and my moral compass wishes to see that these predatory apps with sign up & telemetry baked in are weeded out of existance. Maybe I can't do all that much but by developing and working on offline apps like these I feel like I'm contributing to a wider network of digital ideals.
 
 ## Screenshots
 
